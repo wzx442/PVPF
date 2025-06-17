@@ -1,39 +1,19 @@
-/federated-learning/data/cifar
+# data file
+/data/cifar10/
 
-/federated-learning/data/mnist
-#################################################
-/fedselect/data/cifar10/
+/data/mnist/
 ###########################################################
-/PVPF/data/cifar10/
-
-/PVPF/data/mnist/MNIST/
-
-/PVPF/logs/
-
-/PVPF/enc_dec_time/
-
-/data/
-
-/PVPF/result
+# logs
+/logs/
 ###########################################################
-/FedAvg/data
-
-/FedAvg/logs
-
-/FedAvg/result
-
-/FedAvg/enc_dec_time
+# enc_dec_time
+/enc_dec_time/
 ###########################################################
+# result
+/result/
 
-/pytorch_federated_learning/data
 
-/pytorch_federated_learning/logs
 
-/pytorch_federated_learning/result
-
-/pytorch_federated_learning/enc_dec_time
-
-/pytorch_federated_learning/figures
 
 
 *.txt
